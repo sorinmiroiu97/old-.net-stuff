@@ -1,0 +1,18 @@
+D:\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Sorin's stuff\C#\laborator C#\tictactoe\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Sorin's stuff\C#\laborator C#\tictactoe\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Sorin's stuff\C#\laborator C#\tictactoe\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Sorin's stuff\C#\laborator C#\tictactoe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\Sorin's stuff\C#\laborator C#\tictactoe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Sorin's stuff\C#\laborator C#\tictactoe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Sorin's stuff\C#\laborator C#\tictactoe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\Sorin's stuff\C#\laborator C#\tictactoe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Sorin's stuff\C#\laborator C#\tictactoe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,96 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class Biblioteca
+    {
+        public int termen_imprumut = 30;
+        public int data_imprumut_zi;
+        public int data_imprumut_luna;
+        public int data_returnare_zi;
+        public int data_returnare_luna;
+        public string nume_autor;
+
+    }
+    class Carte : Biblioteca
+    {
+        public string titlu_carte;
+    }
+    class Articol : Biblioteca
+    {
+        public string nume_articol;
+    }
+    class Cititor_Carte : Carte
+    {
+        public string nume;
+        public void stare_imprumut(int data_imprumut_zi, int data_imprumut_luna)
+        {
+            DateTime data_curenta = new DateTime();
+            data_curenta = DateTime.Today;
+            DateTime data_returnare = new DateTime(2017, data_returnare_luna, ((data_imprumut_zi + termen_imprumut) % 30));
+            TimeSpan diferenta = data_curenta.Subtract(data_returnare);
+            if (int.Parse(diferenta.TotalDays.ToString()) <= 0)
+            {
+                Console.WriteLine("Mai aveti {0} zile", -int.Parse(diferenta.TotalDays.ToString()));
+            }
+            else
+            {
+                Console.WriteLine("Ati depasit termenul cu {0} zile", diferenta.TotalDays);
+            }
+        }
+    }
+    class Cititor_Articol : Articol
+    {
+        public string nume;
+        public void stare_imprumut(int data_imprumut_zi, int data_imprumut_luna)
+        {
+            DateTime data_curenta = new DateTime();
+            data_curenta = DateTime.Today;
+            DateTime data_returnare = new DateTime(2017, data_returnare_luna, ((data_imprumut_zi + termen_imprumut) % 30));
+            TimeSpan diferenta = data_curenta.Subtract(data_returnare);
+            if (int.Parse(diferenta.TotalDays.ToString()) <= 0)
+            {
+                Console.WriteLine("Mai aveti {0} zile", -int.Parse(diferenta.TotalDays.ToString()));
+            }
+            else
+            {
+                Console.WriteLine("Ati depasit termenul cu {0} zile", diferenta.TotalDays);
+            }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Cititor_Carte cit_carte = new Cititor_Carte();
+            Console.Write("Nume cititor:"); cit_carte.nume = Console.ReadLine();
+            Console.Write("Titlu carte:"); cit_carte.titlu_carte = Console.ReadLine();
+            Console.Write("Nume autor:"); cit_carte.nume_autor = Console.ReadLine();
+            Console.Write("Zi imprumut:"); cit_carte.data_imprumut_zi = int.Parse(Console.ReadLine());
+            Console.Write("Luna imprumut:"); cit_carte.data_imprumut_luna = int.Parse(Console.ReadLine());
+            if (cit_carte.data_imprumut_zi >= 1)
+            {
+                cit_carte.data_returnare_luna = cit_carte.data_imprumut_luna + 1;
+            }
+            Console.WriteLine("Cititorul {0}, a imprumutat {1} scris de {2} din\n{3}.{4} pana in {5}.{6}", cit_carte.nume, cit_carte.titlu_carte, cit_carte.nume_autor, cit_carte.data_imprumut_zi, cit_carte.data_imprumut_luna, (cit_carte.data_imprumut_zi + cit_carte.termen_imprumut) % 30, cit_carte.data_returnare_luna);
+            cit_carte.stare_imprumut(cit_carte.data_imprumut_zi, cit_carte.data_imprumut_luna);
+            Console.WriteLine();
+
+            Cititor_Articol cit_articol = new Cititor_Articol();
+            Console.Write("Nume cititor:"); cit_articol.nume = Console.ReadLine();
+            Console.Write("Nume articol:"); cit_articol.nume_articol = Console.ReadLine();
+            Console.Write("Nume autor:"); cit_articol.nume_autor = Console.ReadLine();
+            Console.Write("Zi imprumut:"); cit_articol.data_imprumut_zi = int.Parse(Console.ReadLine());
+            Console.Write("Luna imprumut:"); cit_articol.data_imprumut_luna = int.Parse(Console.ReadLine());
+            if (cit_articol.data_imprumut_zi >= 1)
+            {
+                cit_articol.data_returnare_luna = cit_articol.data_imprumut_luna + 1;
+            }
+            Console.WriteLine("Cititorul {0}, a imprumutat {1} scris de {2} din\n{3}.{4} pana in {5}.{6}", cit_articol.nume, cit_articol.nume_articol, cit_articol.nume_autor, cit_articol.data_imprumut_zi, cit_articol.data_imprumut_luna, (cit_articol.data_imprumut_zi + cit_articol.termen_imprumut) % 30, cit_articol.data_returnare_luna);
+            cit_carte.stare_imprumut(cit_articol.data_imprumut_zi, cit_articol.data_imprumut_luna);
+        }
+        }
+    }
+}

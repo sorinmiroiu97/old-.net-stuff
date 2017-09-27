@@ -1,0 +1,9 @@
+D:\Sorin Miroiu\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sorin Miroiu\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Sorin Miroiu\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\Sorin Miroiu\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+D:\Sorin Miroiu\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+E:\Sorin's stuff\C#\laborator C#\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+E:\Sorin's stuff\C#\laborator C#\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+E:\Sorin's stuff\C#\laborator C#\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+E:\Sorin's stuff\C#\laborator C#\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb

@@ -1,0 +1,6 @@
+E:\Sorin's stuff\C#\laborator C#\masina\masina\obj\Debug\masina.csprojResolveAssemblyReference.cache
+E:\Sorin's stuff\C#\laborator C#\masina\masina\bin\Debug\masina.exe.config
+E:\Sorin's stuff\C#\laborator C#\masina\masina\bin\Debug\masina.exe
+E:\Sorin's stuff\C#\laborator C#\masina\masina\bin\Debug\masina.pdb
+E:\Sorin's stuff\C#\laborator C#\masina\masina\obj\Debug\masina.exe
+E:\Sorin's stuff\C#\laborator C#\masina\masina\obj\Debug\masina.pdb

@@ -1,0 +1,5 @@
+D:\Sorin Miroiu\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\Sorin Miroiu\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\Sorin Miroiu\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sorin Miroiu\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+D:\Sorin Miroiu\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb

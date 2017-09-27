@@ -1,0 +1,5 @@
+D:\Sorin Miroiu\ConsoleApplication9\ConsoleApplication9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sorin Miroiu\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+D:\Sorin Miroiu\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+D:\Sorin Miroiu\ConsoleApplication9\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.exe
+D:\Sorin Miroiu\ConsoleApplication9\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.pdb

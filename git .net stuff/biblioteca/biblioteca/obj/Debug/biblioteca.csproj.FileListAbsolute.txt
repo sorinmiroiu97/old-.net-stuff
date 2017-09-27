@@ -1,0 +1,6 @@
+E:\Sorin's stuff\C#\laborator C#\biblioteca\biblioteca\obj\Debug\biblioteca.csprojResolveAssemblyReference.cache
+E:\Sorin's stuff\C#\laborator C#\biblioteca\biblioteca\bin\Debug\biblioteca.exe.config
+E:\Sorin's stuff\C#\laborator C#\biblioteca\biblioteca\bin\Debug\biblioteca.exe
+E:\Sorin's stuff\C#\laborator C#\biblioteca\biblioteca\bin\Debug\biblioteca.pdb
+E:\Sorin's stuff\C#\laborator C#\biblioteca\biblioteca\obj\Debug\biblioteca.exe
+E:\Sorin's stuff\C#\laborator C#\biblioteca\biblioteca\obj\Debug\biblioteca.pdb

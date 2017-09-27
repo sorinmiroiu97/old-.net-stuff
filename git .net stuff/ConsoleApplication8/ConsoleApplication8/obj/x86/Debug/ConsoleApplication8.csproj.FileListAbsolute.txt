@@ -1,0 +1,9 @@
+D:\Sorin Miroiu\ConsoleApplication8\ConsoleApplication8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sorin Miroiu\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+D:\Sorin Miroiu\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+D:\Sorin Miroiu\ConsoleApplication8\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.exe
+D:\Sorin Miroiu\ConsoleApplication8\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.pdb
+E:\Sorin's stuff\C#\laborator C#\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+E:\Sorin's stuff\C#\laborator C#\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+E:\Sorin's stuff\C#\laborator C#\ConsoleApplication8\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.exe
+E:\Sorin's stuff\C#\laborator C#\ConsoleApplication8\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.pdb

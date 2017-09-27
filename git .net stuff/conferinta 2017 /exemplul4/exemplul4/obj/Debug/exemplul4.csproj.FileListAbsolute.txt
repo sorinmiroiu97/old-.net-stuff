@@ -1,0 +1,6 @@
+E:\Sorin's stuff\C#\conferinta 2017 exemplele 3 si 4\exemplul4\exemplul4\bin\Debug\exemplul4.exe.config
+E:\Sorin's stuff\C#\conferinta 2017 exemplele 3 si 4\exemplul4\exemplul4\bin\Debug\exemplul4.exe
+E:\Sorin's stuff\C#\conferinta 2017 exemplele 3 si 4\exemplul4\exemplul4\bin\Debug\exemplul4.pdb
+E:\Sorin's stuff\C#\conferinta 2017 exemplele 3 si 4\exemplul4\exemplul4\obj\Debug\exemplul4.csprojResolveAssemblyReference.cache
+E:\Sorin's stuff\C#\conferinta 2017 exemplele 3 si 4\exemplul4\exemplul4\obj\Debug\exemplul4.exe
+E:\Sorin's stuff\C#\conferinta 2017 exemplele 3 si 4\exemplul4\exemplul4\obj\Debug\exemplul4.pdb
